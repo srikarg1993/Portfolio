@@ -37,22 +37,22 @@ Keep exploring my page to learn more information about me, and feel free to cont
 
 ### UC San Diego, Rady School of Management					        
 
-#### MS in Business Analytics [Immediate Availability]
-
+- **MS in Business Analytics** <sub><sup>[Immediate Availability]</sup></sub>
 - GPA - 3.91
 - Coursework: Customer Analytics, Fraud Analytics, Big Data & Scalable Analytics, Experiments in Firms (A/B Testing)
 - Rady Fellowship recipient
 
 ### UC San Diego, Jacobs School of Engineering
 
-#### MS in Structural Engineering <sub><sup>[09/2015 - 03/2017]</sup></sub> 
+- **MS in Structural Engineering** <sub><sup>[09/2015 - 03/2017]</sup></sub> 
 - GPA – 3.73
 - Coursework: Random Vibrations, Statistics 
 
 ### Indian Institute of Technology (IIT), Bhubaneswar, India								
 
-#### Bachelor of Technology (Honors) in Civil Engineering <sub><sup>[06/2011 - 05/2015]</sup></sub> 
+- **Bachelor of Technology (Honors) in Civil Engineering** <sub><sup>[06/2011 - 05/2015]</sup></sub> 
 - GPA – 8.3/10.0
+- Coursework: Mathematics-1, Mathematics -2, Transform Calculus, Statistics & Probability
 
 ---
 
@@ -88,9 +88,9 @@ Keep exploring my page to learn more information about me, and feel free to cont
 <dt>Location</dt>
 <dd>Los Angeles</dd>
 <dt>Primary Email</dt>
-<dd>srikar.gunisetty@rady.ucsd.edu</dd>
+<dd>[srikar.gunisetty@rady.ucsd.edu](mailto:srikar.gunisetty@rady.ucsd.edu)</dd>
 <dt>Secondary Email</dt>
-<dd>srikarg.1993@gmail.com</dd>
+<dd>[srikarg.1993@gmail.com](mailto:srikarg.1993@gmail.com)</dd>
 <dt>Contact</dt>
 <dd>+1 (858)-729-8570</dd>
 <dt>Date of Birth</dt>
