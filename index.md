@@ -26,7 +26,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
  - Played a key role in streamlining the in-house Quality Assurance group resulting in an overall reduction in field inquiries from project sites leading to a 25% growth in average revenue.
  - Spearheading in-house research and development team in Sustainability Design. 
 
----
+* * *
 
 ### Project Lead 
 #### Labib Funk & Associates Structural Engineers, Los Angeles, CA			<sub><sup>[04/2017 - 04/2020]</sup></sub>
@@ -37,74 +37,34 @@ Keep exploring my page to learn more information about me, and feel free to cont
 ---
 ## EDUCATION
 
-### University of California San Diego, Rady School of Management					        
+### UC San Diego, Rady School of Management					        
 
-#### MS in Business Analytics, GPA - 3.91 [Immediate Availability]
+#### MS in Business Analytics [Immediate Availability]
 
+- GPA - 3.91
 - Coursework: Customer Analytics, Fraud Analytics, Big Data & Scalable Analytics, Experiments in Firms (A/B Testing)
 - Rady Fellowship recipient
 
+* * *
+
 ### University of California San Diego, Jacobs School of Engineering
 
-#### MS in Structural Engineering [09/2015 - 03/2017] 
- - GPA – 3.73 
+#### MS in Structural Engineering <sub><sup>[09/2015 - 03/2017]</sup></sub> 
+- GPA – 3.73
+- Coursework: Random Vibrations, Statistics 
+
+* * *
 
 ### Indian Institute of Technology (IIT), Bhubaneswar								
 
-#### Bachelor of Technology (Honors) in Civil Engineering [06/2011 - 05/2015]
+#### Bachelor of Technology (Honors) in Civil Engineering <sub><sup>[06/2011 - 05/2015]</sup></sub> 
 - GPA – 8.3/10.0
 
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
 # Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
