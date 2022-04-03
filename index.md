@@ -3,9 +3,21 @@
 
 ## ABOUT ME
 
-I am passionate about the intersection between data science and biotechnology. My subject matter expertise includes machine learning, data visualization, natural language processing, and sensing technology. Whether I am developing software for educational products, visualizing pandemic trends, or researching novel techniques to identify promising drug therapies, I thrive when I can apply my technical skills to solving problems that matter.
+An engineer turned Data enthusiast with nearly 5 years of work experience in Product, Strategy & Analytics roles across Tech & Infrastructre sectors.
+From designing civil structures to delighting customers with technology, I'm a problem solver at heart with a passion for leveraging the intersection of data, people, and technology.
 
-Yamini has around 4+ years of experience in Product, Strategy & Analytics roles across Tech, Retail & Media Industries. She loves solving real-world problems and building products using technology. She passionately advocates the need of data driven decision making to understand customer behavior and loves innovating products which have an enormous impact on the society. Yamini is energetic, sincere, and continuously strives towards adding value to businesses. She firmly believes in the quote by Peter Drucker - "If you can't measure it, you can't improve it", which she practices by measuring her work & reinventing herself constantly.
+I am passionate about the intersection between Data Science and Business Applications. I love solving real-world problems and building products using technology and a strong advocate of data driven decision making in Business settings. Shiva thrives in situations where he gets to work as part of a cross-functional group.
+
+My subject matter expertise includes machine learning, data visualization, natural language processing, and sensing technology. Whether I am developing software for educational products, visualizing pandemic trends, or researching novel techniques to identify promising drug therapies, I thrive when I can apply my technical skills to solving problems that matter.
+
+#### Tools: 
+Python, R, SQL, MATLAB, Data Structures, Tableau, Snowflake, AWS, Hadoop, Spark, Excel VBA, Git, Jupyter Notebooks, VS Code, R-Studio
+
+#### Techniques: 
+Exploratory Analysis, Predictive analytics, Statistical Analysis, Hypothesis Testing, A/B Testing, Anomaly Detection, Business Analytics & Consulting, Advanced Simulation, Data Wrangling & Visualization. 
+
+#### Contact: 
+Keep exploring my page to learn more information about me, and feel free to contact me at srikar.gunisetty@rady.ucsd.edu or connect with me on **LinkedIn** to find out how I might contribute and add value to your organization.
 
 ---
 ## WORK EXPERIENCE
