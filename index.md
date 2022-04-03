@@ -50,7 +50,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 
 ### Indian Institute of Technology (IIT), Bhubaneswar, India								
 
-- **Bachelor of Technology (Honors) in Civil Engineering <sub><sup>[06/2011 - 05/2015]</sup></sub>**
+- **B.Technology (Honors) in Civil Engineering <sub><sup>[06/2011 - 05/2015]</sup></sub>**
 - GPA – 8.3/10.0
 - Coursework: Mathematics-1, Mathematics -2, Transform Calculus, Statistics & Probability
 
