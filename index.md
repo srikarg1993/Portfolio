@@ -6,9 +6,7 @@
 An engineer turned Data enthusiast with nearly 5 years of work experience in Product, Strategy & Analytics roles across Tech & Infrastructre sectors.
 From designing civil structures to delighting customers with technology, I'm a problem solver at heart with a passion for leveraging the intersection of data, people, and technology.
 
-I am passionate about the intersection between Data Science and Business Applications. I love solving real-world problems and building products using technology and a strong advocate of data driven decision making in Business settings. Shiva thrives in situations where he gets to work as part of a cross-functional group.
-
-My subject matter expertise includes machine learning, data visualization, natural language processing, and sensing technology. Whether I am developing software for educational products, visualizing pandemic trends, or researching novel techniques to identify promising drug therapies, I thrive when I can apply my technical skills to solving problems that matter.
+I am passionate about the intersection between Data Science and Business Applications and love solving real-world problems and building products using technology and a strong advocate of data driven decision making in Business settings. I thrive in situations where I get to work as part of a cross-functional group and I can apply my technical skills to solving problems that matter.
 
 #### Tools: 
 Python, R, SQL, MATLAB, Data Structures, Tableau, Snowflake, AWS, Hadoop, Spark, Excel VBA, Git, Jupyter Notebooks, VS Code, R-Studio
@@ -17,7 +15,7 @@ Python, R, SQL, MATLAB, Data Structures, Tableau, Snowflake, AWS, Hadoop, Spark,
 Exploratory Analysis, Predictive analytics, Statistical Analysis, Hypothesis Testing, A/B Testing, Anomaly Detection, Business Analytics & Consulting, Advanced Simulation, Data Wrangling & Visualization. 
 
 #### Contact: 
-Keep exploring my page to learn more information about me, and feel free to contact me at srikar.gunisetty@rady.ucsd.edu or connect with me on **LinkedIn** to find out how I might contribute and add value to your organization.
+Keep exploring my page to learn more information about me, and feel free to contact me at [srikar.gunisetty@rady.ucsd.edu](mailto:srikar.gunisetty@rady.ucsd.edu) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/srikargunisetty/) to find out how I might contribute and add value to your organization.
 
 ---
 ## WORK EXPERIENCE
