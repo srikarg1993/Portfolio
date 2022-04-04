@@ -95,22 +95,14 @@ Vol 9, No 4, December 2015_
 ---
 ## PERSONAL
 
-<dl>
-<dt>Location:</dt>
-<dd>Los Angeles</dd>
-<dt>Primary Email:</dt>
-<dd>srikar.gunisetty@rady.ucsd.edu</dd>
-<dt>Secondary Email:</dt>
-<dd>srikarg.1993@gmail.com</dd>
-<dt>Contact:</dt>
-<dd>+1 (858)-729-8570</dd>
-<dt>Date of Birth:</dt>
-<dd>28th August, 1993</dd>
-<dt>Interests:</dt>
-<dd>Books, Photography & Ping-pong</dd>
-<dt>Fun Fact about me:</dt>
-<dd>I am a licensed Civil Engineer in the state of California</dd>
-</dl>
+**Location:** Los Angeles, CA\
+
+**Primary Email:** srikar.gunisetty@rady.ucsd.edu\
+**Secondary Email:** srikarg.1993@gmail.com\
+**Contact Number:** +1 (858)-729-8570\
+**Date of birth:** 28 <sup>th</sup> August, 1993 \
+**Interests:** Books, Photography & Ping-pong\
+**Fun Fact about me:** I am a licensed Civil Engineer in the state of California\
 
 <!---
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
