@@ -10,6 +10,12 @@ description:
 
 theme: jekyll-theme-minimal
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-224769551-1"
+    anonymize_ip: false # default
+
 #show_downloads: true
 #google_analytics:
 # remote_theme: pages-themes/minimal@v0.2.0
