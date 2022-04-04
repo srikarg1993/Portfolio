@@ -96,7 +96,6 @@ Vol 9, No 4, December 2015_
 ## PERSONAL
 
 **Location:** Los Angeles, CA\
-
 **Primary Email:** srikar.gunisetty@rady.ucsd.edu\
 **Secondary Email:** srikarg.1993@gmail.com\
 **Contact Number:** +1 (858)-729-8570\
