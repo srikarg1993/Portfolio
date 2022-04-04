@@ -82,6 +82,17 @@ Keep exploring my page to learn more information about me, and feel free to cont
 [Link to GitHub Repo](https://github.com/srikarg1993/ETL-Pipeline-Data-Warehousing)
 
 ---
+## PUBLICATIONS
+
+_Wang, X., Hutchinson, T.C., Hegemier, G., **Gunisetty, S.**, Meacham, B., and Kamath, P (2016). “Earthquake and fire performance of a midrise cold-formed steel framed building – test program and test results: Rapid release (Preliminary) report.” SSRP-2016/07, Dept. of Structural
+Engineering, University of California, San Diego_
+
+
+_**Srikar, G.**, Anand, G. and Suriya Prakash, S., "A Study on Residual Compression Behavior of Structural Fiber Reinforced Concrete Exposed to
+Moderate Temperature Using Digital Image Correlation (DIC)", International Journal of Concrete Structures and Materials”, ISSN 1976-0485,
+Vol 9, No 4, December 2015_
+
+---
 ## PERSONAL
 
 <dl>
