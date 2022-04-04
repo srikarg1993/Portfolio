@@ -8,7 +8,11 @@ description:
   <a href="https://github.com/srikarg1993">GitHub</a>  |
   <a href="https://scholar.google.com/citations?user=u7dj5awAAAAJ&hl=en">Google Scholar</a>
 
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+
+theme: minimal-mistakes-jekyll
+
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 analytics:
   provider: "google-gtag"
