@@ -101,7 +101,7 @@ Vol 9, No 4, December 2015_
 **Contact Number:** +1 (858)-729-8570\
 **Date of birth:** 28 <sup>th</sup> August, 1993 \
 **Interests:** Books, Photography & Ping-pong\
-**Fun Fact about me:** I am a licensed Civil Engineer in the state of California\
+**Fun Fact about me:** I am a licensed Civil Engineer in the state of California.
 
 <!---
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
