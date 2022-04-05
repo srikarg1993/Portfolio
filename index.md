@@ -5,6 +5,9 @@
 An engineer turned Data enthusiast with nearly 5 years of work experience in Product, Strategy & Analytics roles across Tech & Infrastructre sectors.
 From designing civil structures to delighting customers with technology, I'm a problem solver at heart with a passion for leveraging the intersection of data, people, and technology. I love solving real-world problems using technology and data driven decision making. I thrive in situations where I get to work as part of a cross-functional group and where I can apply my technical skills to solving problems that matter.
 
+#### Languages:
+Python, R, SQL, MATLAB, Data Structures
+
 #### Tools: 
 Python, R, SQL, MATLAB, Data Structures, Tableau, Snowflake, AWS, Hadoop, Spark, Excel VBA, Git, Jupyter Notebooks, VS Code, R-Studio
 
