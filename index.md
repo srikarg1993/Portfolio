@@ -87,7 +87,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 ---
 ## CERTIFICATIONS 
 
-<img src="/assets/img/DataCamp_Logo.png" width="150">
+<img src="/assets/img/DataCamp_Logo.png" width="200">
 
 | S.No | Title |
 |:-----|:------|
@@ -104,8 +104,6 @@ Keep exploring my page to learn more information about me, and feel free to cont
 | 11 | [_Python Fundamentals_](https://www.datacamp.com/statement-of-accomplishment/track/96934bd58a30f85a2aa783dda83261550ece0d7c)|
 | 12 | [_Regular Expressions in Python_](https://www.datacamp.com/statement-of-accomplishment/course/60525738194215dcd1b8adf23f52ab3a8c55979e)|
 
-
----
 ## PUBLICATIONS
 
 _Wang, X., Hutchinson, T.C., Hegemier, G., **Gunisetty, S.**, Meacham, B., and Kamath, P (2016). “Earthquake and fire performance of a midrise cold-formed steel framed building – test program and test results: Rapid release (Preliminary) report.” SSRP-2016/07, Dept. of Structural
