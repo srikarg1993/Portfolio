@@ -42,8 +42,14 @@ Keep exploring my page to learn more information about me, and feel free to cont
 
 - **MS in Business Analytics <sub><sup>[Immediate Availability]</sup></sub>**
 - GPA - 3.91
-- Coursework: Customer Analytics, Fraud Analytics, Big Data & Scalable Analytics, Experiments in Firms (A/B Testing)
 - Rady Fellowship recipient
+- Coursework:
+
+|Summer'21 | Fall'21 | Winter'22 | Spring'22 | Summer'22 | Fall'22 |
+|:--------:|:-------:|:---------:|:---------:|:---------:|:-------:|
+|_Business Analytics in Marketing Finance & Operations_|_Business Analytics_|_Customer Analytics_|_Fraud Analytics_|_Supply Chain Analytics_|_Web Mining & Recommender Systems|
+|_Math & Programming for Business Analytics_|_Collecting & Analyzing Large Data_|_Big Data: SQL & ETL_|_Experiments in Firms (A/B Testing)_|_Business Analytics Consulting_|_Managerial Judgement & Decision Making_|
+|_Seminars_|_Seminars_|_Big Data: Scalable Analytics_|_Seminars_|_Capstone Project_|_Seminars_|
 
 ### UC San Diego, Jacobs School of Engineering
 
@@ -87,7 +93,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 ---
 ## CERTIFICATIONS 
 
-<img src="/assets/img/DataCamp_Logo.png" width="200">
+<img src="./assets/img/DataCamp_Logo.png" width="200">
 
 | S.No | Title |
 |:-----|:------|
