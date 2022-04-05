@@ -85,6 +85,27 @@ Keep exploring my page to learn more information about me, and feel free to cont
 [Link to GitHub Repo](https://github.com/srikarg1993/ETL-Pipeline-Data-Warehousing)
 
 ---
+## CERTIFICATIONS 
+
+<img src="/assets/img/DataCamp_Logo.png" width="150">
+
+| S.No | Title |
+|:-----|:------|
+| 1  | [_Introduction to Data Visualization with Seaborn_](https://www.datacamp.com/statement-of-accomplishment/course/d87d153fc46f7dec38faf86a6aa1ab4396d6dd76)|
+| 2  | [_Introduction to Deep Learning in Python_](https://www.datacamp.com/statement-of-accomplishment/course/eba6145a28e8f121c6ebc478fbd5be0bf4a99792)|
+| 3  | [_Introduction to Regression with Statsmodels in Python_](https://www.datacamp.com/statement-of-accomplishment/course/645c97b631f4bcad962fa198d9d24de6c8ecdf1d)|
+| 4  | [_Working with Data in the Tidyverse_](https://www.datacamp.com/statement-of-accomplishment/course/ecb30db4960f2889509e1ecccb6e01a163552cef)|
+| 5  | [_Introduction to R_](https://www.datacamp.com/statement-of-accomplishment/course/f4fdcf977aa96726a1308f2729dde7dadf7235fe)|
+| 6  | [_Intermediate R_](https://www.datacamp.com/statement-of-accomplishment/course/5e573e9efea384224d32922ae29ac52ef9ab8591)|
+| 7  | [_Introduction to Shell_](https://www.datacamp.com/statement-of-accomplishment/course/820f0624dce42fdd4373a9dcfdf4db06f31259ab)|
+| 8  | [_Introduction to Tidyverse_](https://www.datacamp.com/statement-of-accomplishment/course/bff297864ac85b80f4dd8110ed5393bf53a17f2a)|
+| 9  | [_SQL Fundamentals_](https://www.datacamp.com/statement-of-accomplishment/track/c5099c9c29475a845e4f982a03597a84646b69b0)|
+| 10 | [_Data Manipulation with Python Track_](https://www.datacamp.com/statement-of-accomplishment/track/6b53fc1c23b8027fc688ac3d9ff9d253266f2756)|
+| 11 | [_Python Fundamentals_](https://www.datacamp.com/statement-of-accomplishment/track/96934bd58a30f85a2aa783dda83261550ece0d7c)|
+| 12 | [_Regular Expressions in Python_](https://www.datacamp.com/statement-of-accomplishment/course/60525738194215dcd1b8adf23f52ab3a8c55979e)|
+
+
+---
 ## PUBLICATIONS
 
 _Wang, X., Hutchinson, T.C., Hegemier, G., **Gunisetty, S.**, Meacham, B., and Kamath, P (2016). “Earthquake and fire performance of a midrise cold-formed steel framed building – test program and test results: Rapid release (Preliminary) report.” SSRP-2016/07, Dept. of Structural
