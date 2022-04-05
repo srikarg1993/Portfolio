@@ -5,14 +5,14 @@
 An engineer turned Data enthusiast with nearly 5 years of work experience in Product, Strategy & Analytics roles across Tech & Infrastructre sectors.
 From designing civil structures to delighting customers with technology, I'm a problem solver at heart with a passion for leveraging the intersection of data, people, and technology. I love solving real-world problems using technology and data driven decision making. I thrive in situations where I get to work as part of a cross-functional group and where I can apply my technical skills to solving problems that matter.
 
-#### Languages:
-Python, R, SQL, MATLAB, Data Structures
-
 #### Tools: 
 Python, R, SQL, MATLAB, Data Structures, Tableau, Snowflake, AWS, Hadoop, Spark, Excel VBA, Git, Jupyter Notebooks, VS Code, R-Studio
 
 #### Techniques: 
 Exploratory Analysis, Predictive analytics, Statistical Analysis, Hypothesis Testing, A/B Testing, Anomaly Detection, Business Analytics & Consulting, Advanced Simulation, Data Wrangling & Visualization. 
+
+#### Libraries:
+matplotlib, NumPy, Pandas, Scikit-learn, XGBoost, SciPy, seaborn, keras, dplyr, ggplot2
 
 #### Contact: 
 Keep exploring my page to learn more information about me, and feel free to contact me at [srikar.gunisetty@rady.ucsd.edu](mailto:srikar.gunisetty@rady.ucsd.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/srikargunisetty/) to find out how I might contribute and add value to your organization.
