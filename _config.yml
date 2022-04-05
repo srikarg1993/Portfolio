@@ -10,9 +10,7 @@ description:
 
 theme: jekyll-theme-minimal
 
-#theme: minimal-mistakes-jekyll
-
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # analytics:
 #   provider: "google-gtag"
