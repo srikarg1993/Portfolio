@@ -51,15 +51,14 @@ Keep exploring my page to learn more information about me, and feel free to cont
 |_Math & Programming for Business Analytics_|_Collecting & Analyzing Large Data_|_Big Data: SQL & ETL_|_Experiments in Firms (A/B Testing)_|_Business Analytics Consulting_|_Managerial Judgement & Decision Making_|
 |_Seminars_|_Seminars_|_Big Data: Scalable Analytics_|_Seminars_|_Capstone Project_|_Seminars_|
  -->
- 
-|Quarter | Course-1 | Couse-2 | Course-3 |
-|:--------:|:-------:|:---------:|:---------:|
-|**Summer'21**|_Business Analytics in Marketing Finance & Operations_|_Math & Programming for Business Analytics_|_Technical Seminars_|
-|**Fall'21**|_Business Analytics_|_Collecting & Analyzing Large Data_|_Technical Seminars_|
-|**Winter'22**|_Customer Analytics_|_Big Data: SQL & ETL_|_Big Data: Scalable Analytics_|
-|**Spring'22**|_Fraud Analytics_|_Experiments in Firms (A/B Testing)_|_Technical Seminars_|
-|**Summer'22**|_Supply Chain Analytics_|_Business Analytics Consulting_|_Capstone Project_|
-|**Fall'22**|_Web Mining & Recommender Systems_|_Managerial Judgement & Decision Making_|_Technical Seminars_|
+| Course-1 | Course-2 | Course-3 |
+|:--------:|:--------:|:--------:|
+|_Business Analytics in Marketing Finance & Operations_|_Math & Programming for Business Analytics_|_Technical Seminars_|
+|_Business Analytics_|_Collecting & Analyzing Large Data_|_Technical Seminars_|
+|_Customer Analytics_|_Big Data: SQL & ETL_|_Big Data: Scalable Analytics_|
+|_Fraud Analytics_|_Experiments in Firms (A/B Testing)_|_Technical Seminars_|
+|_Supply Chain Analytics_|_Business Analytics Consulting_|_Capstone Project_|
+|_Web Mining & Recommender Systems_|_Managerial Judgement & Decision Making_|_Technical Seminars_|
 
 ### UC San Diego, Jacobs School of Engineering
 
