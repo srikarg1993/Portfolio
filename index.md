@@ -54,10 +54,9 @@ Keep exploring my page to learn more information about me, and feel free to cont
 
 | Course-1 | Course-2 | Course-3 |
 |:--------:|:--------:|:--------:|
-|_Business Analytics in Marketing Finance & Operations_|_Math & Programming for Business Analytics_|_Technical Seminars_|
-|_Business Analytics_|_Collecting & Analyzing Large Data_|_Technical Seminars_|
-|_Customer Analytics_|_Big Data: SQL & ETL_|_Big Data: Scalable Analytics_|
-|_Fraud Analytics_|_Experiments in Firms (A/B Testing)_|_Technical Seminars_|
+|_Business Analytics in Marketing Finance & Operations_|_Math & Programming for Business Analytics_|_Collecting & Analyzing Large Data_|
+|_Business Analytics_|_Big Data: SQL & ETL_|_Big Data: Scalable Analytics_|
+|_Customer Analytics_|_Fraud Analytics_|_Experiments in Firms (A/B Testing)_|
 |_Supply Chain Analytics_|_Business Analytics Consulting_|_Capstone Project_|
 |_Web Mining & Recommender Systems_|_Managerial Judgement & Decision Making_|_Technical Seminars_|
 
@@ -103,7 +102,8 @@ Keep exploring my page to learn more information about me, and feel free to cont
 ---
 ## CERTIFICATIONS 
 
-<img src="./assets/img/DataCamp_Logo.png" width="200">
+<img src="./assets/img/DataCamp_Logo.png" width="200">  <img src="./assets/img/HackerRank_Logo.png" width="200">
+
 
 | S.No | Title |
 |:-----|:------|
@@ -119,6 +119,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 | 10 | [_Data Manipulation with Python Track_](https://www.datacamp.com/statement-of-accomplishment/track/6b53fc1c23b8027fc688ac3d9ff9d253266f2756)|
 | 11 | [_Python Fundamentals_](https://www.datacamp.com/statement-of-accomplishment/track/96934bd58a30f85a2aa783dda83261550ece0d7c)|
 | 12 | [_Regular Expressions in Python_](https://www.datacamp.com/statement-of-accomplishment/course/60525738194215dcd1b8adf23f52ab3a8c55979e)|
+| 13 | [_SQL_Basic_](https://www.hackerrank.com/certificates/84161fbc8b5e)|
 
 ## PUBLICATIONS
 
