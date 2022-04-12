@@ -82,7 +82,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 - Performed sensitivity analysis to identify critical investment decisions, provided recommendations minimizing the risk and maximizing the revenue potential.
 - Automated reporting, created dashboards, and presented to key stakeholders.
 
-[Link to GitHub Repo](https://github.com/srikarg1993/Customer-Targeting-Intuit-QuickBooks)
+[Link to GitHub Repo](https://github.com/srikarg1993/Customer-Targeting-Intuit-QuickBooks){:target="_blank"}
 
 ### Predicting Customer Churn for S-Mobile <sub><sup>[Feb/2022]</sup></sub>								
 - Collaborated with a team of 3 and identified customer groups at high churn risk using Logistic Regression, XGBoost algorithms. 
@@ -90,14 +90,14 @@ Keep exploring my page to learn more information about me, and feel free to cont
 - Devised and recommended four incentive programs which are projected to result in a net drop in churn by 1.2% and a 60% increase in the Customer Lifetime Value on average.
 - Generated dashboards and delivered a presentation to the Client representatives to deploy targeted solutions.
 
-[Link to GitHub Repo](https://github.com/srikarg1993/Predicting-Customer-Churn-S-Mobile)
+[Link to GitHub Repo](https://github.com/srikarg1993/Predicting-Customer-Churn-S-Mobile){:target="_blank"}
 
 ### ETL Pipeline & Data Warehousing using Snowflake <sub><sup>[March/2022]</sup></sub>
 - Built a pipeline to extract, transform and load purchase order (.csv), supplier (.xml), invoice (.psql), and weather data (NOAA GSOD) of an export company using Snowflake’s python connector
 - Constructed warehouses, schemas, tables & materialized views in Snowflake using Python and calculated various KPI’s via SQL queries affecting companies’ revenue stream.
 - Designed dashboards, visualizations & generated deep dive reports for better client engagement. 
 
-[Link to GitHub Repo](https://github.com/srikarg1993/ETL-Pipeline-Data-Warehousing)
+[Link to GitHub Repo](https://github.com/srikarg1993/ETL-Pipeline-Data-Warehousing){:target="_blank"}
 
 ---
 ## CERTIFICATIONS 
