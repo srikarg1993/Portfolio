@@ -1,4 +1,13 @@
 # PORTFOLIO
+
+1. [ABOUT ME](#ABOUT-ME)
+2. [WORK EXPERIENCE](#WORK-EXPERIENCE)
+3. [EDUCATION](#EDUCATION)
+4. [DATA ANALYTICS PROJECTS](#DATA-ANALYTICS-PROJECTS)
+5. [CERTIFICATIONS](#CERTIFICATIONS)
+6. [PUBLICATIONS](#PUBLICATIONS)
+7. [PERSONAL](#PERSONAL)
+
 ---
 ## ABOUT ME
 
@@ -16,14 +25,6 @@ matplotlib, NumPy, Pandas, Scikit-learn, XGBoost, SciPy, seaborn, keras, dplyr, 
 
 #### Contact: 
 Keep exploring my page to learn more information about me, and feel free to contact me at [srikar.gunisetty@rady.ucsd.edu](mailto:srikar.gunisetty@rady.ucsd.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/srikargunisetty/) to find out how I might contribute and add value to your organization.
-
-[ABOUT ME](#ABOUT-ME)
-[WORK EXPERIENCE](#WORK-EXPERIENCE)
-[EDUCATION](#EDUCATION)
-[DATA ANALYTICS PROJECTS](#DATA-ANALYTICS-PROJECTS)
-[CERTIFICATIONS](#CERTIFICATIONS)
-[PUBLICATIONS](#PUBLICATIONS)
-[PERSONAL](#PERSONAL)
 
 ---
 ## WORK EXPERIENCE
