@@ -30,7 +30,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 ## WORK EXPERIENCE
 
 ###   Design Manager
-####  John A. Martin & Associates Structural Engineers, LA, CA		<sub><sup>[04/2020 - Present]</sup></sub>
+####  John A. Martin & Associates, LA, CA		<sub><sup>[04/2020 - Present]</sup></sub>
 
 - Lead a team of 3 and work cross functionally with architects & sub-consultants to provide end-to-end construction management support for a $90M medical office building for Kaiser Permanente. 
  - Built dashboards to observe JAMA’s pricing trends in various market sectors. Created a forecasting model to predict structural design fee for a project based on key design features with a 9% MSE.
@@ -39,7 +39,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
  - Spearheading in-house research and development team in Sustainability Design. 
 
 ### Project Lead 
-#### Labib Funk & Associates Structural Engineers, LA, CA			<sub><sup>[04/2017 - 04/2020]</sup></sub>
+#### Labib Funk & Associates, LA, CA			<sub><sup>[04/2017 - 04/2020]</sup></sub>
 
 - Worked on 10+ multi-unit residential complexes ranging from 100-600 units in and around Los Angeles County. 
 - Automated workflow between analysis & document generation software which saved production time by 8 hrs./week.
@@ -85,7 +85,10 @@ Keep exploring my page to learn more information about me, and feel free to cont
 
 ## DATA ANALYTICS PROJECTS
 
-### Customer Targeting for Intuit QuickBooks <sub><sup>[Jan/2022]</sup></sub>
+### Customer Targeting for Intuit QuickBooks <sub><sup>[Jan/2022]</sup></sub> 
+
+<img src="./assets/img/Intuit_QB.png" width="200"> 
+
 - Predicted customer response for effective targeting of an upselling campaign for Intuit using Logistic Regression, Neural Nets (MLP), and Ensemble methods based on wave-1 responses from a random sample of small businesses.
 - Expected profits increased by (2x) when compared to untargeted advertising campaign, achieved an AUC (test) of 0.78
 - Performed sensitivity analysis to identify critical investment decisions, provided recommendations minimizing the risk and maximizing the revenue potential.
@@ -111,7 +114,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 ---
 ## CERTIFICATIONS 
 
-<img src="./assets/img/DataCamp_Logo.png" width="200">  <img src="./assets/img/HackerRank_Logo.png" width="200">
+<img src="./assets/img/DataCamp_Logo.png" width="200">    <img src="./assets/img/HackerRank_Logo.png" width="200">
 
 
 | S.No | Title |
