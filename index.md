@@ -127,13 +127,13 @@ Keep exploring my page to learn more information about me, and feel free to cont
 
 ## PUBLICATIONS
 
-_Wang, X., Hutchinson, T.C., Hegemier, G., **Gunisetty, S.**, Meacham, B., and Kamath, P (2016). “Earthquake and fire performance of a midrise cold-formed steel framed building – test program and test results: Rapid release (Preliminary) report.” SSRP-2016/07, Dept. of Structural
-Engineering, University of California, San Diego_
+[_Wang, X., Hutchinson, T.C., Hegemier, G., **Gunisetty, S.**, Meacham, B., and Kamath, P (2016). “Earthquake and fire performance of a midrise cold-formed steel framed building – test program and test results: Rapid release (Preliminary) report.” SSRP-2016/07, Dept. of Structural
+Engineering, University of California, San Diego_](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=u7dj5awAAAAJ&citation_for_view=u7dj5awAAAAJ:d1gkVwhDpl0C){:target="_blank"}
 
 
-_**Srikar, G.**, Anand, G. and Suriya Prakash, S., "A Study on Residual Compression Behavior of Structural Fiber Reinforced Concrete Exposed to
+[_**Srikar, G.**, Anand, G. and Suriya Prakash, S., "A Study on Residual Compression Behavior of Structural Fiber Reinforced Concrete Exposed to
 Moderate Temperature Using Digital Image Correlation (DIC)", International Journal of Concrete Structures and Materials”, ISSN 1976-0485,
-Vol 9, No 4, December 2015_
+Vol 9, No 4, December 2015_](https://www.researchgate.net/publication/292985246_A_Study_on_Residual_Compression_Behavior_of_Structural_Fiber_Reinforced_Concrete_Exposed_To_Moderate_Temperature_Using_Digital_Image_Correlation){:target="_blank"}
 
 ---
 ## PERSONAL
