@@ -113,6 +113,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
    - Created Data Visualizations.
 
 [Link to GitHub Repo](https://github.com/srikarg1993/City-of-LA_Traffic-Collisions-EDA){:target="_blank"}
+
 ---
 ## CERTIFICATIONS 
 
