@@ -20,7 +20,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 ---
 ## WORK EXPERIENCE
 
-###   Design Manager
+###   Senior Product Analyst
 ####  John A. Martin & Associates, LA, CA		<sub><sup>[04/2020 - Present]</sup></sub>
 
 - Lead a team of 3 and work cross functionally with architects & sub-consultants to provide end-to-end construction management support for a $90M medical office building for Kaiser Permanente. 
@@ -29,7 +29,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
  - Played a key role in streamlining the in-house Quality Assurance group resulting in an overall reduction in field inquiries from project sites leading to a 25% growth in average revenue.
  - Spearheading in-house research and development team in Sustainability Design. 
 
-### Project Lead 
+### Product Designer 
 #### Labib Funk & Associates, LA, CA			<sub><sup>[04/2017 - 04/2020]</sup></sub>
 
 - Worked on 10+ multi-unit residential complexes ranging from 100-600 units in and around Los Angeles County. 
