@@ -9,7 +9,7 @@ From designing civil structures to delighting customers with technology, I'm a p
 Python, R, SQL, MATLAB, Data Structures, Tableau, Snowflake, AWS, Hadoop, Spark, Excel VBA, Git, Jupyter Notebooks, VS Code, R-Studio
 
 #### Techniques: 
-Exploratory Analysis, Predictive analytics, Statistical Analysis, Hypothesis Testing, A/B Testing, Anomaly Detection, Business Analytics & Consulting, Advanced Simulation, Data Wrangling & Visualization. 
+Exploratory Analysis, Predictive analytics, Statistical Analysis, Deep Learning, Hypothesis Testing, A/B Testing, Anomaly Detection, Business Analytics & Consulting, Advanced Simulation, Data Wrangling & Visualization. 
 
 #### Libraries:
 matplotlib, NumPy, Pandas, Scikit-learn, XGBoost, SciPy, seaborn, keras, dplyr, ggplot2
@@ -102,6 +102,17 @@ Keep exploring my page to learn more information about me, and feel free to cont
 
 [Link to GitHub Repo](https://github.com/srikarg1993/ETL-Pipeline-Data-Warehousing){:target="_blank"}
 
+### City of Los Angeles Traffic Collision Analysis <sub><sup>[Nov/2021]</sup></sub>
+
+- This project aims to perform an Exploratory Data Analysis (EDA) on the Traffic Collision data obtained from the City of Los Angeles Police Department.
+- This dataset reflects traffic collision incidents in the City of LA dating back to 2010.
+- As part of the Exploratory Data Analysis, we:
+   - Performed Data wrangling and cleanup
+   - Explore summary statistics,
+   - Identified trends, patterns and rendered interpretations
+   - Created Data Visualizations.
+
+[Link to GitHub Repo](https://github.com/srikarg1993/City-of-LA_Traffic-Collisions-EDA){:target="_blank"}
 ---
 ## CERTIFICATIONS 
 
