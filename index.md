@@ -117,7 +117,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 ---
 ## CERTIFICATIONS 
 
-<img src="./assets/img/DataCamp_Logo.png" width="200">    <img src="./assets/img/HackerRank_Logo.png" width="200">
+<img src="./assets/img/DataCamp_Logo.png" width="200">
 
 
 | S.No | Title |
@@ -134,10 +134,20 @@ Keep exploring my page to learn more information about me, and feel free to cont
 | 10 | [_Data Manipulation with Python Track_](https://www.datacamp.com/statement-of-accomplishment/track/6b53fc1c23b8027fc688ac3d9ff9d253266f2756){:target="_blank"}|
 | 11 | [_Python Fundamentals_](https://www.datacamp.com/statement-of-accomplishment/track/96934bd58a30f85a2aa783dda83261550ece0d7c){:target="_blank"}|
 | 12 | [_Regular Expressions in Python_](https://www.datacamp.com/statement-of-accomplishment/course/60525738194215dcd1b8adf23f52ab3a8c55979e){:target="_blank"}|
-| 13 | [_SQL_Basic_](https://www.hackerrank.com/certificates/84161fbc8b5e){:target="_blank"}|
-| 14 | [_SQL_Intermediate_](https://www.hackerrank.com/certificates/148cd13a7db8){:target="_blank"}|
-| 15 | [_R Programming A-Z for Data Science_](https://www.udemy.com/certificate/UC-494faa5d-b990-4540-858a-ed0f301ed300/){:target="_blank"}|
-| 16 | [_Python Programming A-Z for Data Science_](https://www.udemy.com/certificate/UC-e7b66d21-933c-49d9-82dd-85bb35e91e84/){:target="_blank"}|
+
+<img src="./assets/img/HackerRank_Logo.png" width="200">
+
+| S.No | Title |
+|:-----|:------|
+| 1 | [_SQL_Basic_](https://www.hackerrank.com/certificates/84161fbc8b5e){:target="_blank"}|
+| 2 | [_SQL_Intermediate_](https://www.hackerrank.com/certificates/148cd13a7db8){:target="_blank"}|
+
+<img src="./assets/img/Udemy_Logo.png" width="200">
+
+| S.No | Title |
+|:-----|:------|
+| 1 | [_R Programming A-Z for Data Science_](https://www.udemy.com/certificate/UC-494faa5d-b990-4540-858a-ed0f301ed300/){:target="_blank"}|
+| 2 | [_Python Programming A-Z for Data Science_](https://www.udemy.com/certificate/UC-e7b66d21-933c-49d9-82dd-85bb35e91e84/){:target="_blank"}|
 
 ## PUBLICATIONS
 
