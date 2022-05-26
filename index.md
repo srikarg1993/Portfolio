@@ -20,7 +20,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 ---
 ## WORK EXPERIENCE
 
-###   Senior Product Analyst
+###   Product Analyst
 ####  John A. Martin & Associates, LA, CA		<sub><sup>[04/2020 - Present]</sup></sub>
 
 - Lead a team of 3 and work cross functionally with architects & sub-consultants to provide end-to-end construction management support for a $90M medical office building for Kaiser Permanente. 
