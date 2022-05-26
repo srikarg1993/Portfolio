@@ -136,6 +136,8 @@ Keep exploring my page to learn more information about me, and feel free to cont
 | 12 | [_Regular Expressions in Python_](https://www.datacamp.com/statement-of-accomplishment/course/60525738194215dcd1b8adf23f52ab3a8c55979e){:target="_blank"}|
 | 13 | [_SQL_Basic_](https://www.hackerrank.com/certificates/84161fbc8b5e){:target="_blank"}|
 | 14 | [_SQL_Intermediate_](https://www.hackerrank.com/certificates/148cd13a7db8){:target="_blank"}|
+| 15 | [_R Programming A-Z for Data Science_](https://www.udemy.com/certificate/UC-494faa5d-b990-4540-858a-ed0f301ed300/){:target="_blank"}|
+| 16 | [_Python Programming A-Z for Data Science_](https://www.udemy.com/certificate/UC-e7b66d21-933c-49d9-82dd-85bb35e91e84/){:target="_blank"}|
 
 ## PUBLICATIONS
 
