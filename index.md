@@ -41,7 +41,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 ### UC San Diego, Rady School of Management					        
 
 - **MS in Business Analytics <sub><sup>[Immediate Availability]</sup></sub>**
-- GPA - 3.91
+- GPA - 3.94
 - Rady Fellowship recipient
 - Coursework:
 
@@ -85,7 +85,14 @@ Keep exploring my page to learn more information about me, and feel free to cont
 - Performed sensitivity analysis to identify critical investment decisions, provided recommendations minimizing the risk and maximizing the revenue potential.
 - Automated reporting, created dashboards, and presented to key stakeholders.
 
-[Link to GitHub Repo](https://github.com/srikarg1993/Customer-Targeting-Intuit-QuickBooks){:target="_blank"}
+### Credit Card Fraud Detection using Supervised Machine Learning <sub><sup>[Jan/2022]</sup></sub> 
+
+- Lead a team of 5 to detect fraud in real-world credit card transaction data using supervised machine learning algorithms like Logistic Regression, XGBoost, Random Forests.
+- Engineered 2000+ features and used filter & wrapper methods to identify 20 strong indicator variables to feed to the machine learning models. Achieved a 59% fraud detection for the Out of Time (OOT) transactions.  
+- Recommended a 5% fraud detection rate leading to a net savings of $1.56 million per year and wrote a business report.
+
+
+[Link to GitHub Repo](https://github.com/srikarg1993/Credit-Card-Fraud-Detection.git){:target="_blank"}
 
 ### Predicting Customer Churn for S-Mobile <sub><sup>[Feb/2022]</sup></sub>								
 - Collaborated with a team of 3 and identified customer groups at high churn risk using Logistic Regression, XGBoost algorithms. 
