@@ -85,7 +85,7 @@ Keep exploring my page to learn more information about me, and feel free to cont
 - Performed sensitivity analysis to identify critical investment decisions, provided recommendations minimizing the risk and maximizing the revenue potential.
 - Automated reporting, created dashboards, and presented to key stakeholders.
 
-### Credit Card Fraud Detection using Supervised Machine Learning <sub><sup>[Jan/2022]</sup></sub> 
+### Credit Card Fraud Detection using Supervised Machine Learning <sub><sup>[June/2022]</sup></sub> 
 
 - Lead a team of 5 to detect fraud in real-world credit card transaction data using supervised machine learning algorithms like Logistic Regression, XGBoost, Random Forests.
 - Engineered 2000+ features and used filter & wrapper methods to identify 20 strong indicator variables to feed to the machine learning models. Achieved a 59% fraud detection for the Out of Time (OOT) transactions.  
